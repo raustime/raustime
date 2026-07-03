@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roman Ustymenko
-- 👀 I’m interested c++, Unreal Engine, PHP, javascript, react, vue, Go
+- 👀 I’m interested c++, Unreal Engine, GDScript,Go, PHP, javascript, react, vue
 - 🌱 I’m currently learning c++ for Unreal Engine and Go
 - 💞️ I’m looking to collaborate on Game Development (Godot, Unreal Engine)
 
